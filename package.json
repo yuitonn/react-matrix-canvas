@@ -60,11 +60,11 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/YOUR_USERNAME/react-matrix-canvas.git"
+    "url": "https://github.com/yuitonn/react-matrix-canvas.git"
   },
-  "homepage": "https://github.com/YOUR_USERNAME/react-matrix-canvas#readme",
+  "homepage": "https://programming-music-cat.vercel.app/",
   "bugs": {
-    "url": "https://github.com/YOUR_USERNAME/react-matrix-canvas/issues"
+    "url": "https://github.com/yuitonn/react-matrix-canvas/issues"
   },
   "engines": {
     "node": ">=18.0.0"
