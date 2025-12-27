@@ -326,4 +326,4 @@ function TaskMatrix({ tasks, onUpdateTask, onDeleteTask }) {
 
 ## License
 
-MIT
+Copyright (c) 2025 yuitonn
