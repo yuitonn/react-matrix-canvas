@@ -1,5 +1,8 @@
 # react-matrix-canvas
 
+![Videotogif](https://github.com/user-attachments/assets/aa970118-7e36-410f-8fd1-f008f89603ec)
+
+
 A React component library for creating interactive matrix/grid canvases with draggable markers. Perfect for building
 Eisenhower matrices, BCG matrices, risk matrices, and other quadrant-based UIs.
 
